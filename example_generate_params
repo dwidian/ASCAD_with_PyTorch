@@ -1,0 +1,9 @@
+{
+"traces_file" : "CW_Project\ASCAD_Raw.h5",
+"labeled_traces_file" : "CW_Project\ASCAD_labeled.h5",
+"profiling_index" : [n for n in range(0,150000)],
+"attack_index" : [n for n in range(150000,200000)],
+"target_points" : [n for n in range(200,900)],
+"profiling_desync" : 0,
+"attack_desync" : 0
+}
